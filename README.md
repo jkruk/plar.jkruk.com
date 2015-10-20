@@ -11,4 +11,4 @@ The project was carried out with the support of [emCETT](http://www.emcett.com)
 _License:_
 _All Rights Reserved © JOLANTA KRUK_
 
-_Assembled by [kruk.co](kruk.co)_
+_Assembled by [kruk.co](https://kruk.co)_
