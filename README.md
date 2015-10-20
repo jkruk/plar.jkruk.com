@@ -8,7 +8,7 @@ The project was carried out with the support of emCETT
 
 
 
-_License_
+_License:_
 _All Rights Reserved © JOLANTA KRUK_
 
 _Assembled by [kruk.co](kruk.co)_
